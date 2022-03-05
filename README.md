@@ -2,6 +2,8 @@
 
 https://ecommerce-e9fc2.web.app/
 
+https://amazon-cl0ne.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
